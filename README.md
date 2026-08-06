@@ -4,7 +4,7 @@ Welcome to my personal portfolio website! This portfolio showcases my education,
 
 ## 🚀 Live Website
 
-🔗 **Portfolio:** https://b-r-sahithi.github.io/portfolio/
+🔗 **Portfolio:** https://b-r-sahithi.github.io/Portfolio/
 
 ---
 
