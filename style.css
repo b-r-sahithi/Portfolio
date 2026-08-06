@@ -304,6 +304,27 @@ h2::after {
   box-shadow: 0 2px 5px rgba(0,0,0,0.1);
 }
 
+.project-links{
+    margin-top:20px;
+}
+
+.project-links a{
+    display:inline-block;
+    margin-right:10px;
+    padding:10px 18px;
+    border-radius:25px;
+    text-decoration:none;
+    background:#00f7ff;
+    color:#111;
+    font-weight:600;
+    transition:.3s;
+}
+
+.project-links a:hover{
+    transform:translateY(-3px);
+    box-shadow:0 0 15px #00f7ff;
+}
+
 /* Animations */
 .fade-in {
   opacity: 0;
