@@ -1,5 +1,5 @@
 // Dynamic Text (Typewriter) Animation
-const phrases = ["Software Engineer", "ML Enthusiast", "Problem Solver", "Innovator"];
+const phrases = ["Software Developer", "AI & Machine Learning Engineer", "Data Analytics Enthusiast", "Problem Solver"];
 let phraseIndex = 0;
 let charIndex = 0;
 const typewriterElement = document.getElementById('typewriter-text');
