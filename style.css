@@ -345,3 +345,20 @@ footer {
   padding: 15px;
   margin-top: 30px;
 }
+
+@media print {
+    nav,
+    .buttons,
+    footer {
+        display: none;
+    }
+
+    body {
+        background: white;
+        color: black;
+    }
+
+    section {
+        page-break-inside: avoid;
+    }
+}
